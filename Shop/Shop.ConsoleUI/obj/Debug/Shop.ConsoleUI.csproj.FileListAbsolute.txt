@@ -1,0 +1,14 @@
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\bin\Debug\Shop.ConsoleUI.exe.config
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\bin\Debug\Shop.ConsoleUI.exe
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\bin\Debug\Shop.ConsoleUI.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\bin\Debug\EntityFramework.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\bin\Debug\Shop.DataSource.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\bin\Debug\Shop.DataSource.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\bin\Debug\EntityFramework.xml
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\obj\Debug\Shop.ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\obj\Debug\Shop.ConsoleUI.exe
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.ConsoleUI\obj\Debug\Shop.ConsoleUI.pdb

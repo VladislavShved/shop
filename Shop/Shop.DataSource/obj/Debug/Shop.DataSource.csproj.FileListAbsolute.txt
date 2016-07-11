@@ -1,0 +1,16 @@
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\Shop.DataSource.dll.config
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\Shop.DataSource.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\Shop.DataSource.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\EntityFramework.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\EntityFramework.xml
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\obj\Debug\Shop.DataSource.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.DataSource\obj\Debug\Shop.DataSource.pdb

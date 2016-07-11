@@ -1,0 +1,4 @@
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.BLL\bin\Debug\Shop.BLL.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.BLL\bin\Debug\Shop.BLL.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.BLL\obj\Debug\Shop.BLL.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Shop\Shop.BLL\obj\Debug\Shop.BLL.pdb
